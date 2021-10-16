@@ -9,4 +9,4 @@ Feel free to open [a new GitHub issue](https://github.com/mui-org/mui-design-kit
 
 ## Roadmap
 
-Our [GitHub project's roadmap](https://github.com/mui-org/mui-design-kits/projects/1) is where you can learn about what features we're working on, what stage they're at, and when we expect to bring them to you:
+Our [GitHub project's roadmap](https://github.com/mui-org/mui-design-kits/projects/1) is where you can learn about what features we're working on, what stage they're at, and when we expect to bring them to you.
