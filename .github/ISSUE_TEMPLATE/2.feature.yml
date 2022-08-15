@@ -29,7 +29,7 @@ body:
   - type: textarea
     attributes:
       label: Examples 🌈
-      description: Provide a link to the Material Design specification, other implementations, or screenshots of the expected behavior.
+      description: Provide a link for appropriate benchmarks, such as Material Design or other design system's implementations, and screenshots/videos of the expected behavior.
   - type: textarea
     attributes:
       label: Motivation 🔦
