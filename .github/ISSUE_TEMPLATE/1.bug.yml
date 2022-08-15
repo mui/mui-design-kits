@@ -1,6 +1,6 @@
 name: Bug report 🐛
 description: Create a bug report for MUI Design kits.
-labels: ['status: needs triage']
+labels: ["status: needs triage"]
 body:
   - type: markdown
     attributes:
@@ -52,4 +52,10 @@ body:
   - type: textarea
     attributes:
       label: Your environment 🌎
-      description: The version of the design file you are using. The version is usually disabled in the footer of the design frames.
+      description: Help us reproduce the issue.
+      value: |
+        | Software            | Version               |
+        | ------------------- | --------------------- |
+        | Design file version | v5.?.?                |
+        | Design tool         | Figma/Adobe XD/Sketch |
+        | etc.                |                       |
