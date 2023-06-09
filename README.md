@@ -2,6 +2,12 @@
 
 Pick your favorite design tool to enjoy and use MUI components. Boost consistency and facilitate communication when working with developers.
 
+## Documentations
+
+- MUI for Figma: [Check out the documentation](https://mui.com/figma/getting-started/)
+- MUI for Adobe XD: no docs yet
+- MUI for Sketch no docs yet
+
 ## Bug tracker
 
 You can find all the improvement opportunities that we are considering and working on under the [Issues page](https://github.com/mui-org/mui-design-kits/issues).
