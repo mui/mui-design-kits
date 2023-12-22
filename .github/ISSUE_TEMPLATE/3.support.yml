@@ -1,7 +1,7 @@
 name: 'Support question ❔'
 description: I can't find a solution to my problem with MUI Design kit.
 title: "[question] "
-labels: ['status: needs triage', 'support: question']
+labels: ['status: waiting for maintainer', 'support: question']
 body:
   - type: markdown
     attributes:
