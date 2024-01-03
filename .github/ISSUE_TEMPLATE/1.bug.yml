@@ -12,7 +12,7 @@ body:
     attributes:
       label: Search keywords
       description: Your issue may have already been reported! List the keywords you've used to search the [existing issues](https://github.com/mui/mui-design-kits/issues). This will also make your issue searchable for others.
-      placeholder: e.g. datagrid column resizing
+      placeholder: e.g. datagrid column
     validations:
       required: true
   - type: checkboxes
@@ -28,7 +28,7 @@ body:
       description: |
         **⚠️ Issues that we can't reproduce can't be fixed.**
       value: |
-        Link to live example: (required)
+        Link to live example:
 
         Steps:
         1.
