@@ -25,8 +25,8 @@ body:
           required: true
   - type: textarea
     attributes:
-      label: The problem in depth 🔍
+      label: The problem in depth
   - type: textarea
     attributes:
-      label: Your environment 🌎
+      label: Your environment
       description: The version of the design file you are using. The version is usually disabled in the footer of the design frames.
