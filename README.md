@@ -1,11 +1,11 @@
 # MUI in your favorite design tool
 
-Pick your favorite design tool to enjoy and use MUI components. Boost consistency and facilitate communication when working with developers.
+Pick your favorite design tool to enjoy and use the components. Boost consistency and facilitate communication when working with developers.
 
 ## Documentations
 
-- MUI for Figma: [Check out the documentation](https://mui.com/figma/getting-started/)
-- MUI for Sketch no docs yet
+- MUI for Figma: [Check out the documentation](https://mui.com/figma/getting-started/)
+- MUI for Sketch no docs yet
 
 ## Bug tracker
 
