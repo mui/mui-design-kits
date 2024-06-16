@@ -1,5 +1,5 @@
 name: 'Support question ❔'
-description: I can't find a solution to my problem with MUI Design kit.
+description: I can't find a solution to my problem with MUI Design Kits.
 title: "[question] "
 labels: ['status: waiting for maintainer', 'support: question']
 body:
