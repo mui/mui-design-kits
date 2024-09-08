@@ -9,8 +9,8 @@ Pick your favorite design tool to enjoy and use the components. Boost consistenc
 
 ## Bug tracker
 
-You can find all the improvement opportunities that we are considering and working on under the [Issues page](https://github.com/mui-org/mui-design-kits/issues).
-Feel free to open [a new GitHub issue](https://github.com/mui-org/mui-design-kits/issues/new) if can't already find the pain point you are facing in this list.
+You can find all the improvement opportunities that we are considering and working on under the [Issues page](https://github.com/mui/mui-design-kits/issues).
+Feel free to open [a new GitHub issue](https://github.com/mui/mui-design-kits/issues/new) if can't already find the pain point you are facing in this list.
 
 ## Roadmap
 
