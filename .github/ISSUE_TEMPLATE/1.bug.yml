@@ -26,8 +26,6 @@ body:
       description: |
         **⚠️ Issues that we can't reproduce can't be fixed.**
       value: |
-        Link to live example:
-
         Steps:
         1.
         2.
