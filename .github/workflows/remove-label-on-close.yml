@@ -1,0 +1,15 @@
+name: Remove Label When Closed
+
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  remove-label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Remove specific label
+        uses: actions-ecosystem/action-remove-labels@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          labels: "status: waiting for maintainer"
