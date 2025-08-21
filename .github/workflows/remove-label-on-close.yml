@@ -1,15 +1,18 @@
-name: Remove Label When Closed
+name: Issue status label handler
 
 on:
+  issue_comment:
+    types: [created]
   issues:
     types: [closed]
 
+permissions: {}
+
 jobs:
-  remove-label:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Remove specific label
-        uses: actions-ecosystem/action-remove-labels@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          labels: "status: waiting for maintainer"
+  statusHandling:
+    permissions:
+      contents: read
+      issues: write
+      actions: write
+    name: Handle status labels
+    uses: mui/mui-public/.github/workflows/issues_status-label-handler.yml@master
