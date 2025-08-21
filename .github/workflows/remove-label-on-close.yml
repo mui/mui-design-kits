@@ -1,0 +1,18 @@
+name: Issue status label handler
+
+on:
+  issue_comment:
+    types: [created]
+  issues:
+    types: [closed]
+
+permissions: {}
+
+jobs:
+  statusHandling:
+    permissions:
+      contents: read
+      issues: write
+      actions: write
+    name: Handle status labels
+    uses: mui/mui-public/.github/workflows/issues_status-label-handler.yml@master
